@@ -1,0 +1,13 @@
+*~
+.DS_Store
+*ropeproject/
+*.pyc
+*.aux
+*.log
+*.pdf
+*.gz
+*.tclc
+*.tr
+*.dat
+*.fig
+*.eps
