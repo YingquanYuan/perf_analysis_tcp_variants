@@ -6,6 +6,18 @@ See The final pdf paper under the project root directory.
 
 ===============================================================================
 
+Unpack the sample data
+
+For those who have not installed NS-2/TCL for executing the experiments, I
+have prepared a sample data package 'plot_data.tar.gz'. Simply run:
+
+tar -xzvf plot_data.tar.gz
+
+And you will get the sample data unpacked under out directory, so that you
+can directly run 'make' and generate the LaTeX paper.
+
+===============================================================================
+
 Makefile
 
 The project root directory is perf_analysis_tcp_variants.
